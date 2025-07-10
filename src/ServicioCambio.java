@@ -12,7 +12,7 @@ import com.google.gson.JsonObject;
 
 public class ServicioCambio {
 
-    private static final String API_KEY = "720a6c84b7711196d37ab81f";
+    private static final String API_KEY = "";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     public static double obtenerTasaCambio(String monedaDestino) {
